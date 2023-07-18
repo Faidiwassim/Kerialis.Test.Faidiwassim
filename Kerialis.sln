@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kerialis.API", "Kerialis.API\Kerialis.API.csproj", "{9C0DFDAF-2260-43EA-A874-F4143C194054}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kerialis.Datas", "Kerialis.Datas\Kerialis.Datas.csproj", "{30CD791C-C265-48E4-B8BB-ACDD195829FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kerialis.Repositories", "Kerialis.Repositories\Kerialis.Repositories.csproj", "{95177045-F692-4FA2-801A-7DB0A66D3712}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kerialis.Services", "Kerialis.Services\Kerialis.Services.csproj", "{3A91D681-C034-41CF-AE8B-DED42DD8F51B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kerialis.Extensions", "Kerialis.Extensions\Kerialis.Extensions.csproj", "{CD99DD6F-735C-4AD5-B266-0A82015EE454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kerialis.UnitTests", "Kerialis.UnitTests\Kerialis.UnitTests.csproj", "{7149F9EB-7E9F-4C60-89D3-C941A4307E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0DFDAF-2260-43EA-A874-F4143C194054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0DFDAF-2260-43EA-A874-F4143C194054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0DFDAF-2260-43EA-A874-F4143C194054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0DFDAF-2260-43EA-A874-F4143C194054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30CD791C-C265-48E4-B8BB-ACDD195829FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30CD791C-C265-48E4-B8BB-ACDD195829FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30CD791C-C265-48E4-B8BB-ACDD195829FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30CD791C-C265-48E4-B8BB-ACDD195829FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95177045-F692-4FA2-801A-7DB0A66D3712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95177045-F692-4FA2-801A-7DB0A66D3712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95177045-F692-4FA2-801A-7DB0A66D3712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95177045-F692-4FA2-801A-7DB0A66D3712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A91D681-C034-41CF-AE8B-DED42DD8F51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A91D681-C034-41CF-AE8B-DED42DD8F51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A91D681-C034-41CF-AE8B-DED42DD8F51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A91D681-C034-41CF-AE8B-DED42DD8F51B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD99DD6F-735C-4AD5-B266-0A82015EE454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD99DD6F-735C-4AD5-B266-0A82015EE454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD99DD6F-735C-4AD5-B266-0A82015EE454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD99DD6F-735C-4AD5-B266-0A82015EE454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7149F9EB-7E9F-4C60-89D3-C941A4307E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7149F9EB-7E9F-4C60-89D3-C941A4307E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7149F9EB-7E9F-4C60-89D3-C941A4307E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7149F9EB-7E9F-4C60-89D3-C941A4307E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {868FBF1E-DBE9-49F0-ADCA-37053644447C}
+	EndGlobalSection
+EndGlobal
